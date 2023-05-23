@@ -1,4 +1,9 @@
 {
   "name": "Java 17 Docker CI",
-  "description": "Invaluable build pipeline for Java 17 projects that deploy to docker containers"
+  "description": "Invaluable build pipeline for Java 17 projects that deploy to docker containers",
+  "categories": [
+    "Continuous Integration",
+    "Docker",
+    "Java"
+  ]
 }
